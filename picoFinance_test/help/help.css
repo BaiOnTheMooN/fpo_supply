@@ -1,0 +1,13 @@
+﻿body {font-family:'tahoma','Sans-Serif'; font-size:14px;}
+a img { border:none;}
+table {width:1000px;}
+.tools {height:50px;}
+.title {height:100px; font-size:20px;}
+.subtitle {height:100px; font-size:18px;}
+.tab {width:30px;}
+.content {line-height:200%;}
+.note {font-weight:normal; font-style:italic; color:red;}
+.fontB {font-weight:bold; color:green;}
+.fontS {font-weight:bold; color:red;}
+.fontE {font-weight:normal; font-style:italic; color:rgb(255,100,0); line-height:150%;}
+.fontX {font-weight:normal; font-style:italic; color:rgb(0,0,255);}

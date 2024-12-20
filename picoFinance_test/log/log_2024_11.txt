@@ -1,0 +1,17 @@
+2024-11-06 13:21:21 58.97.27.70 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-06 13:22:01 58.97.27.70 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[qj83t4pwavbx4x2gu8i3qmqa5no4876a|บริษัท สุขสำราญพึ่งพา จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-06 15:17:22 58.97.27.70 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-08 08:46:54 58.97.27.70 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:36:43 100.100.0.38 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:44:23 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data (adjacentChange) ->[llugmgr4qdpjkb1r0ywrvlco44u75ixd|สุรินทร์,ขอนแก่น] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:44:37 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data (adjacentChange) ->[llugmgr4qdpjkb1r0ywrvlco44u75ixd|สุรินทร์] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:47:05 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[bkb8qwwa001bos7k87qas3nqwli88of3|บริษัท เพื่อนแท้ เงินด่วน (ร้อยเอ็ด) จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:47:25 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data (adjacentChange) ->[bkb8qwwa001bos7k87qas3nqwli88of3|สุรินทร์,ยโสธร,มหาสารคาม,มุกดาหาร] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:47:39 100.100.0.38 WarakornThongkwow:www.1359.go.th : Logout ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:57:17 100.100.0.38 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:57:48 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[bkb8qwwa001bos7k87qas3nqwli88of3|บริษัท เพื่อนแท้ เงินด่วน (ร้อยเอ็ด) จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:58:08 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data (adjacentChange) ->[bkb8qwwa001bos7k87qas3nqwli88of3|ศรีสะเกษ,ยโสธร,มหาสารคาม] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:58:54 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[bkb8qwwa001bos7k87qas3nqwli88of3|บริษัท เพื่อนแท้ เงินด่วน (ร้อยเอ็ด) จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 14:59:17 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data (adjacentChange) ->[bkb8qwwa001bos7k87qas3nqwli88of3|ศรีสะเกษ,ยโสธร,กาฬสินธุ์] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 15:00:34 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[bkb8qwwa001bos7k87qas3nqwli88of3|บริษัท เพื่อนแท้ เงินด่วน (ร้อยเอ็ด) จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-11-28 15:00:53 100.100.0.38 WarakornThongkwow:www.1359.go.th : Edit Company Data (adjacentChange) ->[bkb8qwwa001bos7k87qas3nqwli88of3|ศรีสะเกษ,ยโสธร] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO

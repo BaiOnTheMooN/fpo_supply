@@ -1,0 +1,126 @@
+USE [fpo_supply]
+GO
+/****** Object:  Table [dbo].[activity]    Script Date: 12/18/2024 9:39:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[activity](
+	[id] [varchar](32) NOT NULL,
+	[activityState] [varchar](3) NULL,
+	[borrowerID] [varchar](32) NULL,
+	[witness] [varchar](32) NULL,
+	[startDate] [datetime] NULL,
+	[endDate] [datetime] NULL,
+	[docs] [varchar](50) NULL,
+	[note] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[supply]    Script Date: 12/18/2024 9:39:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[supply](
+	[id] [varchar](32) NOT NULL,
+	[registID] [varchar](10) NOT NULL,
+	[serialNo] [varchar](50) NULL,
+	[category] [varchar](50) NULL,
+	[brand] [varchar](50) NULL,
+	[model] [varchar](50) NULL,
+	[activeState] [varchar](3) NOT NULL,
+	[section] [varchar](50) NOT NULL,
+	[division] [varchar](50) NOT NULL,
+	[userID] [varchar](32) NULL,
+	[project_no] [varchar](50) NOT NULL,
+	[dataInsert] [datetime] NULL,
+	[dataUpdate] [datetime] NULL,
+	[note] [nchar](10) NULL
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[tracking]    Script Date: 12/18/2024 9:39:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tracking](
+	[id] [varchar](32) NOT NULL,
+	[tackingDate] [varchar](1) NOT NULL,
+	[Y] [date] NULL,
+	[existence] [varchar](1) NULL,
+	[note] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+/****** Object:  Table [dbo].[users]    Script Date: 12/18/2024 9:39:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[users](
+	[userID] [varchar](32) NOT NULL,
+	[username] [varchar](64) NOT NULL,
+	[password] [varchar](32) NOT NULL,
+	[role] [varchar](20) NOT NULL,
+	[name] [varchar](100) NULL,
+	[department] [varchar](100) NULL,
+	[branch] [varchar](100) NULL,
+	[subdistrict] [varchar](100) NULL,
+	[district] [varchar](100) NULL,
+	[province] [varchar](100) NULL,
+	[subdistCode] [varchar](6) NULL,
+	[subregion] [varchar](100) NULL,
+	[region] [varchar](100) NULL,
+	[email] [varchar](100) NULL,
+	[tel] [varchar](100) NULL,
+	[fax] [varchar](100) NULL,
+	[photo] [varchar](100) NULL,
+	[registDate] [datetime] NOT NULL,
+	[note] [text] NULL,
+	[activate] [int] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+GO
+
+
+
+/*
+INSERT INTO fpo_supply.dbo.supply
+(id ,registID ,serialNo ,category ,brand ,model ,activeState ,section ,division ,userID ,project_no ,dataInsert ,dataUpdate ,note)
+VALUES
+('e75667f0n917267604110632hll6200d','2564 สศค. 60411-0632','E75667F0N917267','Laser Printer',
+'Brother','HL-L6200DW','9',NULL,'กพช.',NULL,
+'38/2563 วันที่ 21 ก.ค. 2563',NULL,NULL,NULL);
+
+INSERT INTO fpo_supply.dbo.supply
+(id ,registID ,serialNo ,category ,brand ,model ,activeState ,section ,division ,userID ,project_no ,dataInsert ,dataUpdate ,note)
+VALUES
+('vnc4102396604110662hpi7kw64a2564','2564 สศค. 60411-0662','VNC4102396','Laser Printer',
+'HP','Color LaserJet Pro M255dw','2',NULL,'กพช.',NULL,
+'42/2564 วันที่ 3 ก.ย. 2564',NULL,NULL,NULL);
+
+INSERT INTO fpo_supply.dbo.supply 
+(id ,registID ,serialNo ,category ,brand ,model ,activeState ,section ,division ,userID ,project_no ,dataInsert ,dataUpdate ,note)
+VALUES
+('lr0ew7w9604150444thinkbook152565','2565 สศค. 60415-0444','LR0EW7W9','Notebook',
+'Lenovo','ThinkBook 15-IML','3','ส่วนกลยุทธ์และพัฒนาระบบการเงินภาคประชาชน','กพช.',NULL,
+'42/2564 วันที่ 3 ก.ย. 2564',NULL,NULL,NULL);
+*/

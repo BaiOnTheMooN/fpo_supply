@@ -1,0 +1,8 @@
+2024-09-04 09:22:16 58.97.27.70 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-09-04 09:23:36 58.97.27.70 rpsO3LSYEw5LX0K69vmgT12bIlahk0ML : Login ->rpsO3LSYEw5LX0K69vmgT12bIlahk0ML|ubolwanv|อุบลวรรณ วิธีจงเจริญ|FPO
+2024-09-19 09:36:38 100.100.0.47 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-09-19 09:37:40 100.100.0.47 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-09-19 09:37:54 100.100.0.47 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[bkb8qwwa001bos7k87qas3nqwli88of3|บริษัท เพื่อนแท้ เงินด่วน (ร้อยเอ็ด) จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-09-19 09:38:18 100.100.0.47 WarakornThongkwow:www.1359.go.th : Edit Company Data ->[bkb8qwwa001bos7k87qas3nqwli88of3|บริษัท เพื่อนแท้ เงินด่วน (ร้อยเอ็ด) จำกัด] WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-09-19 10:21:28 100.100.0.47 WarakornThongkwow:www.1359.go.th : Login ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO
+2024-09-19 10:21:30 100.100.0.47 WarakornThongkwow:www.1359.go.th : Logout ->WarakornThongkwow:www.1359.go.th|thongkwow|thongkwow|FPO

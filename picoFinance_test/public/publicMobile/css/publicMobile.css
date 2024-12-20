@@ -1,0 +1,163 @@
+* {
+    box-sizing: border-box; 
+  }
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    font-family: "SukhumvitSet";
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+  }
+  .logo {
+  padding-top: 2%;
+  padding-bottom: 0.5%;
+  color:black;
+  text-align:center;
+  background-color:#77AEDF;
+  height: 100%;
+  }
+  .logo p {
+   font-size: 10em;
+   text-align: center;
+  }  
+  body {
+  margin: 0;
+  flex-flow: column nowrap;
+  }
+  .text2 {
+    text-align: justify;
+  } 
+  input[type=text] {
+    width: 40%;
+    box-sizing: border-box;
+    border: 4% solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.90s ease-in-out;
+  }
+  input[type=text]:focus {
+    width: 80%;
+  }
+  .button0 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #0066cc;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 24px;
+    padding: 1.5%;
+    width: 30%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  .button0 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .button0 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .button0:hover span {
+    padding-right: 25px;
+  }
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  .flex-rw {
+    display: flex;
+    flex-flow: row wrap;
+     padding-left: 3%;
+  }
+  footer {
+    background: #0C3C60;
+    margin-top: auto;
+    color:white;
+  }
+  .footer-list-top {
+    width: 31%;
+  }
+  .footer-list-top > li {
+    text-align: center;
+  }
+  .logo {
+    padding-top: 2%;
+    padding-bottom: 0.5%;
+    color:black;
+    text-align:center;
+    background-color:#77AEDF;
+    height: 100%;
+    
+    }
+    .logo p {
+     font-size: 10em;
+     text-align: center;
+     margin-top:30px;
+    } 
+    .div{
+      font-size: 5em;
+      
+    }
+    .listDiv1{
+      background-color:#77AEDF;
+      font-size: 24px;
+      text-align: center;
+      padding: 10px;
+    }
+    .listDiv2{
+      background-color:white;
+      font-size: 24px;
+      text-align: center;
+      padding: 10px;
+    }
+    .divDetail{
+      font-size: 1em;
+      background-color:white;
+      text-align: left;
+      padding: 10px;
+      font-size: 24px;
+
+    }
+    .bttn1{
+      display: inline-block;
+      border-radius: 4px;
+      background-color: #0066cc;
+      border: none;
+      color: #FFFFFF;
+      font-size: 24px;
+      padding: 1.5%;
+      width: 100%;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+    }
+    .bttn2{
+      display: inline-block;
+    border-radius: 4px;
+    background-color: #0066cc;
+    border: none;
+    color: #FFFFFF;
+    font-size: 24px;
+    padding: 1.5%;
+    width: 100%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    }
+   
